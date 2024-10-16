@@ -6,7 +6,7 @@ import prompt from 'prompt-sync';
 const promptSync = prompt();
 
 const MODEL_NAME = "gemini-1.0-pro";
-const API_KEY = "AIzaSyAmdCBITgqcHB6q-7ea3-dF8QdhVzjQCYw";
+const API_KEY = "your_Api_key";
 const GENERATION_CONFIG = {
     temperature: 0.9,
     topK: 1,
